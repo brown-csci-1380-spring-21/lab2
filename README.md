@@ -2,7 +2,7 @@
 
 ### Task
 
-Create a gRPC server and client that successfully communicate with each other. [Handout is here](https://drive.google.com/file/d/1M4CzjHlmcZCBii1xT-ctzFDl2WG6yoYK/view?usp=sharing).
+Create a gRPC server and client that successfully communicate with each other. [Handout is here](https://docs.google.com/document/d/1Nr_S8FEKJWJBTiEM40-eW3SqFA60i90V7STqICQkrRE/edit).
 
 ### Goals
 
